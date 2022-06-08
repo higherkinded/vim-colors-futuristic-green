@@ -1,6 +1,6 @@
 # Futuristic green
 
-A little colorscheme I've made to match my rice.
+A little vim colorscheme I've made to match my rice.
 
 ## How to install it?
 
